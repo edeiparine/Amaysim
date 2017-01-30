@@ -45,8 +45,8 @@ public class ServicesFragment extends Fragment {
         String dataUsageThreshold = services.getDataUsageThreshold();
 
         tv_msn.setText(msn);
-        tv_credit.setText("Credit:" + Constants.formatStringToCurrency(credit));
-        tv_creditExpiry.setText("Credit Expiry:" + creditExpiry);
+        tv_credit.setText(Constants.formatStringToCurrency(credit));
+        tv_creditExpiry.setText(creditExpiry);
         Constants.checkIfFalse(getContext(), iv_dataUsageThreshold, dataUsageThreshold);
     }
 

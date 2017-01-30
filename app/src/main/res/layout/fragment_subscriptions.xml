@@ -38,7 +38,7 @@
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="16dp"
                             android:layout_marginTop="16dp"
-                            android:text="Included Data Balance" />
+                            android:text="INCLUDED DATA BALANCE" />
 
                         <LinearLayout
                             android:layout_width="wrap_content"
@@ -71,7 +71,7 @@
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="16dp"
                             android:layout_marginTop="16dp"
-                            android:text="Included Credit Balance" />
+                            android:text="INCLUDED CREDIT BALANCE" />
 
                         <LinearLayout
                             android:layout_width="wrap_content"
@@ -105,7 +105,7 @@
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="16dp"
                             android:layout_marginTop="16dp"
-                            android:text="Included Rollover Credit Balance" />
+                            android:text="INCLUDED ROLLOVER CREDIT BALANCE" />
 
                         <LinearLayout
                             android:layout_width="wrap_content"
@@ -140,7 +140,7 @@
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="16dp"
                             android:layout_marginTop="16dp"
-                            android:text="Included International Talk balance" />
+                            android:text="INCLUDED INTERNATIONAL TALK BALANCE" />
 
                         <LinearLayout
                             android:layout_width="wrap_content"
@@ -184,7 +184,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="16dp"
                         android:layout_marginTop="16dp"
-                        android:text="Expiry Date" />
+                        android:text="EXPIRY DATE" />
 
                     <LinearLayout
                         android:layout_width="wrap_content"
