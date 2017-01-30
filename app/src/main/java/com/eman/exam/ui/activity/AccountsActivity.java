@@ -72,14 +72,14 @@ public class AccountsActivity extends AppCompatActivity {
 
     private void setTextViewValues() {
 
-        String fullName = "Name:" + accounts.getTitle() + "."
+        String fullName = accounts.getTitle() + "."
                 + accounts.getLastName() + ", "
                 + accounts.getFirstName();
 
-        String paymentType = "Payment Type:" + accounts.getPaymentType().toUpperCase();
-        String unbilledCharges = "Unbilled Charges:" + accounts.getUnbilledCharges();
-        String nextBillingDate = "Next Billing Date:" + accounts.getNextBillingDate();
-        String dateOfBirth = "Date of Birth:" + accounts.getDateOfBirth();
+        String paymentType = accounts.getPaymentType().toUpperCase();
+        String unbilledCharges = accounts.getUnbilledCharges();
+        String nextBillingDate = accounts.getNextBillingDate();
+        String dateOfBirth = accounts.getDateOfBirth();
         String contactNumber = accounts.getContactNumber();
         String emailAddress = accounts.getEmailAddress();
         String emailAddressVerified = accounts.getEmailAddressVerified();
