@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mac/Desktop/EXAM/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/mac/Desktop/EXAM/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_cdeff5879670a8ecc36cb68656eedf83cb2fc591.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/Desktop/EXAM/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/mac/Desktop/EXAM/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_1f06ee88623a7f4797994366fa8b467317976278.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/Desktop/EXAM/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/mac/Desktop/EXAM/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_d5621266ecbdc1d276ce5dd52516b52b9190d274.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/Desktop/EXAM/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/mac/Desktop/EXAM/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_88dfeaf8b702fb59dce2e09c0da0f6fce4f5d9ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/Desktop/EXAM/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/mac/Desktop/EXAM/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_56ce3dae4911641069a99f7caa0b58193a72f9d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/Desktop/EXAM/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/mac/Desktop/EXAM/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_716f97770dd554f12193011415d272d6506e6737.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/Desktop/EXAM/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/mac/Desktop/EXAM/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_59051a0fdae5e86c190a041a192021b35911ebc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/Desktop/EXAM/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/Users/mac/Desktop/EXAM/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-24.2.1_1c2903559350b4cebc3199fe5a0b2b2e93d4450b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/Desktop/EXAM/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/mac/Desktop/EXAM/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_cc286437fd53983f21ba057e7ec819ff6a40dbaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.0/a7537446a030da8eb0da4c71424d16c2589f6c4a/glide-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a7537446a030da8eb0da4c71424d16c2589f6c4a">
+        <dex dex="/Users/mac/Desktop/EXAM/app/build/intermediates/pre-dexed/debug/glide-3.6.0_427b655f82853a40a654d25152dec8b474fc064e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/mac/Desktop/EXAM/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_98ffe390cb47b8915198e3aae7dab3894397c5cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/Desktop/EXAM/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/mac/Desktop/EXAM/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_66e2fdbff42805e922e6855ae7234028d77a6d44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/Desktop/EXAM/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/mac/Desktop/EXAM/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_a06cfa4014e0bc4a6ead75e66c5de387d3adce36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/Desktop/EXAM/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/mac/Desktop/EXAM/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_1e1e6b702d3d69d416052b3cf2a7a4117e833bfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/Desktop/EXAM/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/mac/Desktop/EXAM/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_d3ff4041b738e14b0a57bc741b3d3afd050f7a3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/Desktop/EXAM/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mac/Desktop/EXAM/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_c9199d2212c5d68a0f108b2a27e269d482d5902f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/Desktop/EXAM/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/mac/Desktop/EXAM/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_103fba59d472d763ddcf8fb872a39a022f67c09e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/Desktop/EXAM/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/mac/Desktop/EXAM/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_3b72c2e6c064b16437bb1d282cb68c4b4088c605.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/Desktop/EXAM/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/mac/Desktop/EXAM/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_d72729db9b0dcc97358a0794fd06f37b31a2ca0d.jar" />
+    </item>
+
+</items>
